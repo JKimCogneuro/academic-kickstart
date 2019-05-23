@@ -1,10 +1,10 @@
 +++
-title = "Network Patterns of Beta-Amyloid Deposition in Parkinson¡¯s Disease"
+title = "Network Patterns of Beta-Amyloid Deposition in Parkinson's Disease"
 date = "2019-04-20"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Kim, J.***","Ghadery, C.", "Cho, S. S.", "Mihaescu, A.", "Leigh, C.", "", "Valli, M.", "Houle, S.", "Strafella, A. P"]
+authors = ["**Kim J.***","Ghadery C.", "Cho S. S.", "Mihaescu A.", "Leigh C.", "", "Valli M.", "Houle S.", "Strafella A. P."]
 
 # Publication type.
 # Legend:
