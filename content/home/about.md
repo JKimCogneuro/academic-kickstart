@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Feedback-based learning",
+    "Reward processing in Internet gaming disorder",
+    "Parkinson's disease"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D in Psychology (Cognition and Brain)"
+  institution = "Kangwon National University, South Korea"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MA in Psychology"
+ institution = "Kangwon National University, South Korea"
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Psychology"
+  institution = "Kyungpook National University, South Korea"
+  year = 2007
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I received my Ph.D. degree in Psychology under the supervision of [Dr. Eunjoo Kang](https://www.researchgate.net/profile/Eunjoo_Kang) at Kangwon National University in South Korea. During my Ph.D., I examined the neuropsychological mechanism of reward processing during learning in individuals with Internet gaming disorder using functional MRI. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I joined [Dr. Antonio Strafella](https://twitter.com/APStrafella)'s lab at the Centre for Addiction and Mental Health as a postdoctoral fellow in January 2016, with the lab focusing on studying the neuroimaging biomarkers in Parkinson's disease. Particularly, my currently research seeks to assess brain connectivity abnormalities measured by resting-state fMRI as well as PET in Parkinson's disease.
