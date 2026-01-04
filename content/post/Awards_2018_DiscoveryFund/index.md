@@ -1,6 +1,6 @@
 +++
 title = "The CAMH Discovery Fund"
-date = 2018-07-01T19:04:31-04:00
+date = "2018-07-01T19:04:31-04:00"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,10 +18,10 @@ categories = []
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 #image = "DiscoveryFund.jpg"
-image = ""
+image = "DiscoveryFund.jpg"
 caption = ""
 preview = true
 
 +++
 
-I received a postdoctoral fellowship awarded by the Discovery Fund [Talent Development Competition](https://www.camh.ca/en/science-and-research/discovery-fund/talent-development). 
+I received a postdoctoral fellowship awarded by the Discovery Fund [Talent Development Competition](https://www.camh.ca/en/science-and-research/discovery-fund/talent-development).

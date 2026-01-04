@@ -1,10 +1,10 @@
 +++
-title = "Neural representations in mPFC and insula encode individual differences in estimating others’ preferences"
-date = 2017-10-17
+title = "202505_HKang_SCAN"
+date = 2026-01-04T15:18:09+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kang, H.", "Kim, K. I.", "**Kim, J.**", "Kim, H."]
+authors = [""]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["Kang, H.", "Kim, K. I.", "**Kim, J.**", "Kim, H."]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Social Cognitive and Affective Neuroscience"
-publication_short = "Soc. Cogn. Affect. Neurosci."
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected =true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/202505_HKang_SCAN.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -55,8 +55,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-<!-- url_custom = [{name = "Psypost", url = "https://www.psypost.org/2018/01/internet-game-overuse-linked-impaired-feedback-processing-symbolic-reward-50558"}] -->
-url_custom = []
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
 # Does this page contain LaTeX math? (true/false)
 math = false
 

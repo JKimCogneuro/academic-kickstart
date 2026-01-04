@@ -16,20 +16,20 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Ph.D in Psychology (Cognition and Brain)"
-  institution = "Kangwon National University, South Korea"
-  year = 2016
+# [[education.courses]]
+#   course = "Ph.D in Psychology (Cognition and Brain)"
+#   institution = "Kangwon National University, South Korea"
+#   year = 2016
 
-[[education.courses]]
-  course = "MA in Psychology"
-  institution = "Kangwon National University, South Korea"
-  year = 2010
+# [[education.courses]]
+#   course = "MA in Psychology"
+#   institution = "Kangwon National University, South Korea"
+#   year = 2010
 
-[[education.courses]]
-  course = "BA in Psychology"
-  institution = "Kyungpook National University, South Korea"
-  year = 2007
+# [[education.courses]]
+#   course = "BA in Psychology"
+#   institution = "Kyungpook National University, South Korea"
+#   year = 2007
 
 +++
 

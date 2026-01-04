@@ -50,26 +50,26 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Jinhee Kim"
-  role = "Postdoctoral fellow"
+  role = "Research Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Centre for Addiction and Mental Health", url = "https://www.camh.ca" } ]
+  organizations = [ { name = "Behavioral Science Research Institute", url = "https://psy.korea.ac.kr/Research/Intro" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "JKim.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar
-  email = "jin-hee.kim@camhpet.ca"
-  address = "Research Imaging Centre Room 137, CAMH, 250 College St. Toronto,  ON, Canada  M5T 1R8"
+  email = "jinhee_kim@korea.ac.kr"
+  address = "Old Building Room 402, Korea University Law Building, 145 Anam-ro, Seongbuk-gu, Seoul, 02841, Republic of Korea"
   #office_hours = "Monday 10:00 to 17:00 or email for appointment"
-  phone = "(416) 535-8501 ext. 30630"
+  phone = "(02) 3290-1636"
   #skype = "gramercy0610"
    # telegram = ""
 
@@ -107,9 +107,9 @@ enableGitInfo = false
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "Jan 1, 2026"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "7:00 PM"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -195,7 +195,7 @@ enableGitInfo = false
   [params.publications]
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    date_format = "January, 2026"
 
   # Configuration of project pages.
   [params.projects]
@@ -230,12 +230,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:jin-hee.kim@camhpet.ca"
+    link = "mailto:jinhee_kim@korea.ac.kr"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/JKimCogNeuro"
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/JKimCogNeuro"
 
   [[params.social]]
     icon = "google-scholar"
