@@ -59,8 +59,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-<!-- url_custom = [{name = "Psypost", url = "https://www.psypost.org/2018/01/internet-game-overuse-linked-impaired-feedback-processing-symbolic-reward-50558"}] -->
-url_custom = []
+url_custom = [{name = "Psypost", url = "https://www.psypost.org/2018/01/internet-game-overuse-linked-impaired-feedback-processing-symbolic-reward-50558"}]
+#url_custom = []
 # Does this page contain LaTeX math? (true/false)
 math = false
 
