@@ -1,11 +1,20 @@
 +++
-title = "Neural representations in mPFC and insula encode individual differences in estimating others’ preferences"
-date = 2017-10-17
+title = "Disrupted salience network dynamics in Parkinson's disease patients with impulse control disorders"
+date = 2020-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kang, H.", "Kim, K. I.", "**Kim, J.**", "Kim, H."]
-
+authors = [
+  "Navalpotro-Gomez, I.",
+  "**Kim, J.**",
+  "Paz-Alonso, P. M.",
+  "Delgado-Alvarado, M.",
+  "Quiroga-Varela, A.",
+  "Jimenez-Urbieta, H.",
+  "Carreiras, M.",
+  "Strafella, A. P.",
+  "Rodriguez-Oroz, M. C."
+]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,8 +27,8 @@ authors = ["Kang, H.", "Kim, K. I.", "**Kim, J.**", "Kim, H."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Social Cognitive and Affective Neuroscience"
-publication_short = "Soc. Cogn. Affect. Neurosci."
+publication = "Parkinsonism & Related Disorders"
+publication_short = "Parkinsonism Relat. Disord."
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,7 +38,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected =true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -40,10 +49,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["rs-fMRI"]
 
 # Links (optional).
-url_pdf = "pdf/202505_HKang_SCAN.pdf"
+url_pdf = "pdf/202001_Irene_PRD.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,12 +60,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1016/j.parkreldis.2019.12.009"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-<!-- url_custom = [{name = "Psypost", url = "https://www.psypost.org/2018/01/internet-game-overuse-linked-impaired-feedback-processing-symbolic-reward-50558"}] -->
-url_custom = []
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
 # Does this page contain LaTeX math? (true/false)
 math = false
 

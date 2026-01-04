@@ -1,10 +1,19 @@
 +++
-title = "Dynamic functional connectivity changes associated with dementia in Parkinson's disease"
-date = 2019-04-28
+title = "The increased analgesic efficacy of cold therapy after an unsuccessful analgesic experience is associated with inferior parietal lobule activation"
+date = 2022-08-29
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fiorenzato E.", "Strafella, A.P.", "**Kim. J.**", "Roberta, S.", "Luca, W.", "Antonini, Al.", "Biundo, R."]
+authors = [
+  "Choi, J. C.",
+  "Park, H. J.",
+  "Park, J. A.",
+  "Kang, D. R.",
+  "Choi, Y. S.",
+  "Choi, S.",
+  "**Kim, J.***"
+]
+notes = "* Corresponding author"
 
 # Publication type.
 # Legend:
@@ -18,8 +27,8 @@ authors = ["Fiorenzato E.", "Strafella, A.P.", "**Kim. J.**", "Roberta, S.", "Lu
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Brain"
-publication_short = "Brain"
+publication = "Scientific Reports"
+publication_short = "Sci. Rep."
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,7 +38,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +52,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/201904_EF_Brain.pdf"
+url_pdf = "pdf/202208_JChoi_SciRep.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -1,10 +1,10 @@
 +++
-title = "Network Patterns of Beta-Amyloid Deposition in Parkinson's Disease"
-date = "2019-04-20"
+title = "Exploring automatic approach-avoidance tendencies: the impact of self-relevant social feedback on behavior"
+date = 2026-01-04T15:36:51+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Kim J.***","Ghadery C.", "Cho S. S.", "Mihaescu A.", "Leigh C.", "", "Valli M.", "Houle S.", "Strafella A. P."]
+authors = ["**Kim, J.**", "Lee, M.", "Chae, J.", "Lim, G.", "Kim, M.", "Kim, H."]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["**Kim J.***","Ghadery C.", "Cho S. S.", "Mihaescu A.", "Leigh C.", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Molecular Neurobiology"
-publication_short = "Mol Neurobiol"
+publication = "Frontiers in Psychology"
+publication_short = "Front. Psychol."
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/201904_Kim1_MoN.pdf"
+url_pdf ="pdf/202503_JKim1_FrontInPsy.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -1,11 +1,21 @@
 +++
-title = "Abnormal intrinsic brain functional network dynamics in Parkinson's disease"
-date = "2017-11-01"
+title = "Digital assessment of cognitive-affective biases related to mental health"
+date = 2024-08-29
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Kim, J.***"," Criaud, M.", "Cho, S. S.", "Diez-Cirarda, M.", "Mihaescu, A.", "Coakeley, S.", "Ghadery, C.", "Valli, M.", "Jacobs, M.F.", "Houle, S.", "Strafella, A. P"]
-
+authors = [
+  "Park, S.-E.",
+  "Chung, J.",
+  "Lee, J.",
+  "Kim, M. J. B.",
+  "**Kim, J.**",
+  "Jeon, H. J.",
+  "Kim, H.",
+  "Woo, C.",
+  "Kim, H.",
+  "Lee, S. A."
+]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,8 +28,8 @@ authors = ["**Kim, J.***"," Criaud, M.", "Cho, S. S.", "Diez-Cirarda, M.", "Miha
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Brain"
-publication_short = "Brain"
+publication = "PLOS Digital Health"
+publication_short = "PLOS Digit. Health"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,7 +39,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +53,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/201710_Kim1_Brain.pdf"
+url_pdf = "pdf/202408_SPark_PlosDH.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

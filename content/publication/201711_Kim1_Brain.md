@@ -1,10 +1,10 @@
 +++
-title = "DRD2 Genotype-Based Variants Modulates D2 Receptor Distribution in Ventral Striatum"
-date = 2019-03-05
+title = "Abnormal intrinsic brain functional network dynamics in Parkinson's disease"
+date = "2017-11-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Valli, M.", "Cho, S. S.", "Masellis, M.", "Chen, R.", "Rusjan, P.", "**Kim, J.**", "Koshimori Y", "Mihaescu A", "Strafella, A. P."]
+authors = ["**Kim, J.***"," Criaud, M.", "Cho, S. S.", "Diez-Cirarda, M.", "Mihaescu, A.", "Coakeley, S.", "Ghadery, C.", "Valli, M.", "Jacobs, M.F.", "Houle, S.", "Strafella, A. P"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Valli, M.", "Cho, S. S.", "Masellis, M.", "Chen, R.", "Rusjan, P.", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Molecular Neurobiology"
-publication_short = "Mol Neurobiol"
+publication = "Brain"
+publication_short = "Brain"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/201903_Valli_MolNeurobiol.pdf"
+url_pdf = "pdf/201711_Kim1_Brain.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

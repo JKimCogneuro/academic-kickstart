@@ -1,10 +1,10 @@
 +++
-title = "Brain degeneration in Parkinson's disease patients with cognitive decline: a coordinate-based meta-analysis"
-date = 2018-09-14T15:03:59-04:00
+title = "DRD2 Genotype-Based Variants Modulates D2 Receptor Distribution in Ventral Striatum"
+date = 2019-09-15
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mihaescu, A.", "Masellis, M.", "Graff-Guerrero, A.", "**Kim, J.**", "Criaud, M.", "Cho, S. S.", "Ghadery, C.", "Valli, M.", " Strafella, A. P."]
+authors = ["Valli, M.", "Cho, S. S.", "Masellis, M.", "Chen, R.", "Rusjan, P.", "**Kim, J.**", "Koshimori Y", "Mihaescu A", "Strafella, A. P."]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Mihaescu, A.", "Masellis, M.", "Graff-Guerrero, A.", "**Kim, J.**", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Brain Imaging and Behavior"
-publication_short = "Brain Imaging Behav"
+publication = "Molecular Neurobiology"
+publication_short = "Mol Neurobiol"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/201807_AM_BIB.pdf"
+url_pdf = "pdf/201909_Valli_MolNeurobiol.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

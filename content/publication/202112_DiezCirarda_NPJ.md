@@ -1,10 +1,28 @@
 +++
-title = "The interaction between neuroinflammation and beta-amyloid in cognitive decline in Parkinson's disease"
-date = 2019-08-05
+title = "Contributions of sex, depression, and cognition on brain connectivity dynamics in Parkinson’s disease"
+date = 2021-12-16
 draft = false
 
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ghadery, C.", "Koshimori, Y.", "Christopher, L.", "**Kim, J.**", "Rusjan, P.", "Lang, A.", "Houle, S.", "Strafella, A. P."]
+authors = [
+  "Diez-Cirarda, M.",
+  "Gabilondo, I.",
+  "Ibarretxe-Bilbao, N.",
+  "Gómez-Esteban, J. C.",
+  "**Kim, J.**",
+  "Lucas-Jiménez, O.",
+  "Del Pino, R.",
+  "Peña, J.",
+  "Ojeda, N.",
+  "Mihaescu, A.",
+  "Valli, M.",
+  "Acera, M. A.",
+  "Cabrera-Zubizarreta, A.",
+  "Gómez-Beldarrain, M. A.",
+  "Strafella, A. P."
+]
+
 
 # Publication type.
 # Legend:
@@ -18,8 +36,8 @@ authors = ["Ghadery, C.", "Koshimori, Y.", "Christopher, L.", "**Kim, J.**", "Ru
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Molecular Neurobiology"
-publication_short = "Mol Neurobiol"
+publication = "npj Parkinson's Disease"
+publication_short = "npj Parkinsons Dis."
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -40,10 +58,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["rs-fMRI"]
 
 # Links (optional).
-url_pdf = "pdf/201908_Ghadery_MoN.pdf"
+url_pdf = "pdf/202112_DiezCirarda_NPJ.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +69,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1038/s41531-021-00230-6"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
